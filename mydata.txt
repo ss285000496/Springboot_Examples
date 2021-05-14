@@ -1,0 +1,11 @@
+联系方式
+来宾校区（主校区）来宾市铁北大道966号 邮编：546199
+
+电话:0772-6620808 传真:0772-6620911
+
+柳州校区（分校区）柳州市柳北区沙塘镇君武路170号
+
+邮编：545004 电话：0772-2046337
+
+Java通过IO操作读取c:/ipconfig.txt[b]文件内容输出到控制台[/b]。代码如下：
+https://blog.csdn.net/xyz495863099/article/details/83726076?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_v2~rank_aggregation-4-83726076.pc_agg_rank_aggregation&utm_term=Java%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%BE%93%E5%87%BA%E8%AF%BB%E5%8F%96txt%E6%96%87%E4%BB%B6&spm=1000.2123.3001.4430
